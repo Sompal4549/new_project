@@ -1,0 +1,6 @@
+{
+  "name": "CYBER/PRECISION",
+  "description": "The official web presence of CYBER/PRECISION, a boutique venture capital studio backing cyber, precision engineering, hardware, and deep tech founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

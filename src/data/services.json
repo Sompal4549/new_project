@@ -1,0 +1,74 @@
+{
+  "specialties": [
+    {
+      "id": "cryptography",
+      "icon": "ShieldAlert",
+      "title": "Post-Quantum & System Auditing",
+      "desc": "Formally proving algorithmic correctness of quantum key exchanges, auditing firmware trust chains, and assessing ITAR cryptographic boundaries."
+    },
+    {
+      "id": "firmware",
+      "icon": "Cpu",
+      "title": "Sub-Nanometer Control Firmware",
+      "desc": "Developing specialized device drivers, lithography print loops, and real-time controller interrupts on metal for direct hardware processors."
+    },
+    {
+      "id": "optics",
+      "icon": "Activity",
+      "title": "LEO Satcom & Optical Routing",
+      "desc": "Designing custom networking protocols on satellites to handle near-zero latency, multi-gigabit laser link handoffs and packet alignment."
+    },
+    {
+      "id": "robotics",
+      "icon": "Users",
+      "title": "GPS-Denied Autonomy & SLAM",
+      "desc": "Retrofitting multi-ton machinery with real-time lidar telemetry, spatial awareness routines, and advanced hydraulic feedback logic."
+    }
+  ],
+  "liveGigs": [
+    {
+      "id": "gig-1",
+      "title": "Post-Quantum Cryptography Audit Consultant",
+      "category": "Cryptography",
+      "duration": "4 Months (Extendable)",
+      "rate": "$180 - $240 / hr",
+      "level": "L6+ Specialist",
+      "description": "Audit critical cryptographic blocks for safe SCADA pipelines inside our Series A portfolio company based in Munich. Requires ITAR/Sovereign clearance capability.",
+      "skills": ["Post-Quantum Keys", "SCADA Integrity", "C/Rust", "NIST Standards"],
+      "location": "Hybrid / Munich"
+    },
+    {
+      "id": "gig-2",
+      "title": "Sub-Nanometer Lithography Control Architect",
+      "category": "Hardware Control",
+      "duration": "9 Months Contract",
+      "rate": "$220 - $290 / hr",
+      "level": "Principal Fellow",
+      "description": "Consult directly on our Swiss partner’s laser interference system. Optimize microchip lithography print loops down to 0.7nm accuracy. Cleanroom certified is highly ideal.",
+      "skills": ["Precision Lithography", "Real-Time Linux", "RF Interferometry"],
+      "location": "On-Site / Zurich"
+    },
+    {
+      "id": "gig-3",
+      "title": "Autonomous Mining SLAM Software Designer",
+      "category": "Robotics SLAM",
+      "duration": "6 Months Contract",
+      "rate": "$195 - $250 / hr",
+      "level": "L5 Senior Expert",
+      "description": "Configure and deploy specialized GPS-denied 3D SLAM controllers inside heavy excavation drill rigs. Experience working in extreme subterranean settings is critical.",
+      "skills": ["ROS 2", "Subterranean SLAM", "C++", "Sensor Fusion"],
+      "location": "Remote / Gothenburg"
+    },
+    {
+      "id": "gig-4",
+      "title": "LEO Laser Constellation Transceiver Architect",
+      "category": "Broadband satcom",
+      "duration": "12 Months Contract",
+      "rate": "$230 - $310 / hr",
+      "level": "Principal Director",
+      "description": "Drive high-tempo satcom development. Standardize low level optical link handoffs between orbital laser hubs. Mil-spec hardware integration experience required.",
+      "skills": ["Laser Transceivers", "LEO Telemetry", "RTOS", "FPGA Programming"],
+      "location": "On-Site / Austin"
+    }
+  ]
+}

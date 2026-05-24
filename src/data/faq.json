@@ -1,0 +1,32 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What is your core investment size and focus?",
+    "answer": "We lead Seed and Series A rounds with checks ranging from $3M to $12M. We reserve massive follow-on reserves for hardware, sovereign defense computing, specialized materials, space-ground networking, and autonomous robotics in extreme environments.",
+    "category": "Venture Metrics"
+  },
+  {
+    "id": "faq-2",
+    "question": "How do you structure hardware vs software diligence?",
+    "answer": "We have fully certified modular test benches. Our team conducts physical inspections of hardware designs, signal spectrum analysis, stress testing under extreme environments, and formal algorithmic verification of cryptography protocols. Diligence is led entirely by our technical partners.",
+    "category": "Diligence Process"
+  },
+  {
+    "id": "faq-3",
+    "question": "Are there defense regulation/ITAR constraints we should worry about?",
+    "answer": "Absolutely. Over 60% of our portfolio operates within regulated orbital, cryptographic, or tactical sectors. We maintain an in-house compliance counsel to guide founders through foreign trade licenses, dual-use compliance, ITAR registrations, and sovereign clearance approvals.",
+    "category": "Regulatory Support"
+  },
+  {
+    "id": "faq-4",
+    "question": "What does \"sovereign technology backing\" mean?",
+    "answer": "It means backing critical national capabilities. We invest in tech that ensures the security, supply chain integrity, and digital sovereignty of allied democratic entities. This includes secure chips, post-quantum networking, and localized robotic heavy fabrication.",
+    "category": "Investment Philosophy"
+  },
+  {
+    "id": "faq-5",
+    "question": "Do you help early-stage startups get public utility/gov contracts?",
+    "answer": "Yes, this is our specialty. We provide a customized pipeline comprising direct introductions to department heads, security accreditation assistance (FedRAMP, cyber-essentials, secure-facility clearances), and writing technical performance specifications.",
+    "category": "Growth Operations"
+  }
+]

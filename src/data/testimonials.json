@@ -1,0 +1,56 @@
+[
+  {
+    "id": "test-1",
+    "name": "Dr. Arthur Pendelton",
+    "role": "Chief Executive Officer",
+    "company": "ARGON CRYPTO",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "quote": "CYBER/PRECISION is not just capital. They understand the grueling timeline of physical hardware development, state certifications, and military-grade testing. Helena personally audited our quantum key distro protocol and found a memory leak that would have set us back nine months.",
+    "rating": 5
+  },
+  {
+    "id": "test-2",
+    "name": "Elena Rostova",
+    "role": "Founder & Chief Architect",
+    "company": "KINETIC RESONANCE",
+    "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+    "quote": "While generalist VC funds kept asking for our monthly active user metrics, Marcus immediately sat in our cleanroom, asked about our laser interference margins, and wired the Seed round within 48 hours. They are engineers who happen to write checks.",
+    "rating": 5
+  },
+  {
+    "id": "test-3",
+    "name": "Commander Robert Sterling",
+    "role": "VP Operations",
+    "company": "HELIOS TELEMETRY",
+    "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+    "quote": "Government contracting is a bureaucratic minefield. Sven opened up direct pipelines to sovereign aerospace procurement channels, turning an initial orbital pilot into a multi-year master service agreement.",
+    "rating": 5
+  },
+  {
+    "id": "test-4",
+    "name": "Sarah Jenkins",
+    "role": "Lead Cryptography Consultant",
+    "company": "Independent Specialist / Freelance Lab",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "quote": "Operating as a high-tier freelance systems designer through CYBER/PRECISION is incredibly rewarding. They matched my sub-nanometer firmware experience directly to ARGON’s cleanroom project in Munich. The rates are elite, and they handle all the ITAR clearance.",
+    "rating": 5
+  },
+  {
+    "id": "test-5",
+    "name": "Nikhil Mehta",
+    "role": "Freelance Robotics Engineer & Advisor",
+    "company": "RoboCore Solutions",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+    "quote": "CYBER/PRECISION has re-engineered how specialized consulting happens. Standard freelancing platforms do not understand optical routing or GPS-denied SLAM algorithms. Here, I configure direct laser telemetry for major orbital fleets right from my lab.",
+    "rating": 5
+  },
+  {
+    "id": "test-6",
+    "name": "Dr. Charlotte Vance",
+    "role": "VP of Hardware Architecture",
+    "company": "KRYPTOS PROTOCOL",
+    "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+    "quote": "We suddenly needed a sovereign trust verification expert for an on-site lithography audit. CYBER/PRECISION connected us with an elite hardware-integrity freelancer within 12 hours. The outcome was flawless.",
+    "rating": 5
+  }
+]

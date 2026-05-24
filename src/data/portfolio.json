@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cyber-1",
+    "name": "ARGON CRYPTO",
+    "category": "cyber",
+    "tagline": "Post-Quantum Defense for Global Infrastructure",
+    "description": "Developing heavy-duty cryptographic primitives designed specifically to secure SCADA industrial controllers, maritime freight routers, and critical smart grids against state-sponsored quantum decryption threats.",
+    "fundingStage": "Series A",
+    "founded": "2022",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFiTHKwPyvWylX8sELKUurA8YBoxzY-MIo8-tTqMv2SzveB_n-06lQnpJufM7v5wpTo7OaXEf00lSmn48JI1rsnHqZyomFeXfnPOFWr0V90wT8-6HgeavSwkRJKdOZO83MEw5NgTH7amTy3kwVknqC7l1VTroslKzr1fYs5omohFSUz09bPWk4LLrxICiRziQkuJD7Rs2Rwr0w5cuipuYWin_070Nv9iWEXSGjpSSAhYdjg3bVMxdG6dWSt1yd66yWfYFcwGMe3PJq",
+    "tags": ["Cryptography", "Quantum-Resistant", "Critical Infrastructure", "Sovereignty"],
+    "website": "https://argon.cyber.precision.example",
+    "headquarters": "Munich, Germany"
+  },
+  {
+    "id": "precision-1",
+    "name": "KINETIC RESONANCE",
+    "category": "precision",
+    "tagline": "Sub-Nanometer Optical Interconnects",
+    "description": "Pioneering laser-assisted lithography machinery capable of printing optical computing architectures at sub-nanometer scales. Powering the next-generation of direct light-silicon hybrid co-processors.",
+    "fundingStage": "Seed",
+    "founded": "2023",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAke-p4byTv777IM_4a0fN7rLOXJW_UNRAS1h7mmjoljhdDacwjw-lHLAsuvzqh1PyFHPUbZBd7Vxw_lpo0o3fY_f-6ITpm6mKi42PTFb_Bvbko7M8JzOrXfIjR_ighwTiOBH0H2W2IU3gvYV__TsEZoIVLfpA_KLmr7qpQmgFoFwYX_hemm0WkgFII--_yksuygea7mDt70485LoZw4uqv36SBjPDkvr7MB_AxeY5Ik756WLzqPO3vxGrSTI3fT1usAsx6Q_jQ6XX8",
+    "tags": ["Lithography", "Optical Computing", "Hardware", "Precision Optics"],
+    "website": "https://kinetic.precision.example",
+    "headquarters": "Zurich, Switzerland"
+  },
+  {
+    "id": "space-1",
+    "name": "HELIOS TELEMETRY",
+    "category": "space",
+    "tagline": "Deep-Space Laser Communications Networks",
+    "description": "Deploying robust laser transceiver constellations in low earth orbit to facilitate near-zero latency, multi-gigabit data backhaul networks between deep space satellites and terrestrial nodes.",
+    "fundingStage": "Series B",
+    "founded": "2021",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuALNrgJd__OTNnqh8rDQZlw8ml7a-UzLD54NcuQDeXso-tlE4sF-g0T66lbDsNGsPpBjEIWA3__TVfzohdTDtPwMrZ3i9qLNM4eeCk5pUsrINdJDnpBPO9HfMw9CmZXpxk0NIt1nQbQ0ZF2dmrRjnWqWtjv5hnGOCoStO79uGucUM9pcfw6BMxkWLEyz6gmxegecHHfnuLKtiOyfOK9NFnZ-QyymNmYj6wkJC7LqfInMzKJ9It5HVuvZOXmdFIuykQpFbwPP9h9VZi",
+    "tags": ["Laser Networking", "LEO Satellites", "Broadband backhaul", "Mil-Spec"],
+    "website": "https://helios.space.example",
+    "headquarters": "Austin, Texas"
+  },
+  {
+    "id": "robotics-1",
+    "name": "OAK HEAVY MACHINE",
+    "category": "robotics",
+    "tagline": "Autonomous Excavation Controllers",
+    "description": "Retrofitting multi-ton mining and tunneling machinery with full-stack spatial intelligence compute rigs, allowing autonomous, ultra-precise continuous drilling in GPS-denied absolute dark environments.",
+    "fundingStage": "Series A",
+    "founded": "2022",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAZoRPhMjTuRJCzyFl8E9TlpyECBZqCaMo2vqfbhcOrJQvHguIln9iNj1zNORnPkTaUhUUq4QxXs2VA6SgFq2-5sqeH7keAEVLsS65-cY52DLYALzoEQP1vkdWtKHop35tGZhe2zFJI3nqvYJNCjR_FaSfzhHDxGpwXKd62k2dHEBkUScJg5do2YcAndI9tiSjvMS6sb7l93X13JhEYD9APEWL2T4E-hwYMri9fYk4jdq4Q5NncDN0ygiA4obfWrMcuw7Da38pdieXr",
+    "tags": ["Autonomous Systems", "GPS-Denied", "Spatial Intelligence", "Heavy Robotics"],
+    "website": "https://oak.robotics.example",
+    "headquarters": "Gothenburg, Sweden"
+  },
+  {
+    "id": "cyber-2",
+    "name": "KRYPTOS PROTOCOL",
+    "category": "cyber",
+    "tagline": "Zero-Knowledge Manufacturing Verification",
+    "description": "Providing a cryptographically verified ledger for supply chain integrity. Allows semiconductor fabs to certify manufacturing authenticity and exact spec tolerances without revealing proprietary architecture designs.",
+    "fundingStage": "Seed",
+    "founded": "2023",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFiTHKwPyvWylX8sELKUurA8YBoxzY-MIo8-tTqMv2SzveB_n-06lQnpJufM7v5wpTo7OaXEf00lSmn48JI1rsnHqZyomFeXfnPOFWr0V90wT8-6HgeavSwkRJKdOZO83MEw5NgTH7amTy3kwVknqC7l1VTroslKzr1fYs5omohFSUz09bPWk4LLrxICiRziQkuJD7Rs2Rwr0w5cuipuYWin_070Nv9iWEXSGjpSSAhYdjg3bVMxdG6dWSt1yd66yWfYFcwGMe3PJq",
+    "tags": ["Zero-Knowledge", "Hardware Trust", "Semiconductor supply chain"],
+    "website": "https://kryptos.cyber.example",
+    "headquarters": "Tokyo, Japan"
+  },
+  {
+    "id": "precision-2",
+    "name": "SPECTRUM COATING",
+    "category": "precision",
+    "tagline": "Metamaterial Defense Shields",
+    "description": "Manufacturing molecular-engineered surface coatings that mitigate thermal signatures and electromagnetic reflection index down to near-absolute zero, tailored for space defense structures and satellites.",
+    "fundingStage": "Series B",
+    "founded": "2021",
+    "logoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAke-p4byTv777IM_4a0fN7rLOXJW_UNRAS1h7mmjoljhdDacwjw-lHLAsuvzqh1PyFHPUbZBd7Vxw_lpo0o3fY_f-6ITpm6mKi42PTFb_Bvbko7M8JzOrXfIjR_ighwTiOBH0H2W2IU3gvYV__TsEZoIVLfpA_KLmr7qpQmgFoFwYX_hemm0WkgFII--_yksuygea7mDt70485LoZw4uqv36SBjPDkvr7MB_AxeY5Ik756WLzqPO3vxGrSTI3fT1usAsx6Q_jQ6XX8",
+    "tags": ["Metamaterials", "Aero-Defense", "Thermal Shielding"],
+    "website": "https://spectrum.precision.example",
+    "headquarters": "Boulder, Colorado"
+  }
+]

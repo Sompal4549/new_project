@@ -1,0 +1,26 @@
+{
+  "stats": [
+    { "label": "SOVEREIGN CAPITAL", "value": "$250M+", "sub": "Assets Under Management" },
+    { "label": "DEEP TECH VENTURES", "value": "42", "sub": "Active Portfolio Comps" },
+    { "label": "PROVEN EXITS", "value": "3", "sub": "Strategic Infrastructure Sales" },
+    { "label": "COMPLIANCE AUDITING", "value": "100%", "sub": "ITAR & Regulatory Success" }
+  ],
+  "faqCategories": ["All", "Venture Metrics", "Diligence Process", "Regulatory Support", "Investment Philosophy"],
+  "pillars": [
+    {
+      "icon": "Terminal",
+      "title": "Tactical Cyberspace",
+      "desc": "Backing post-quantum cryptographic machinery, decentralized industrial protocols, and zero-trust firmware networks to protect sovereign infrastructure."
+    },
+    {
+      "icon": "Cpu",
+      "title": "Precision Micro-Hardware",
+      "desc": "Funding the next leap in fabrication, sub-nanometer optoelectronics lithography, automated feedback control loops and custom chipsets."
+    },
+    {
+      "icon": "Globe",
+      "title": "Extreme Environment Robotics",
+      "desc": "Supporting physical autonomous machines conducting orbital telemetry mapping, deep-seabed installations, and GPS-denied hydraulic mining operations."
+    }
+  ]
+}
